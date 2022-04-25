@@ -21,3 +21,4 @@ The purpose of this analysis was to evaluate different classification models for
   * Accuracy: 1.0
   * ![EasyEnsembleClassifier](Images/EasyEnsembleClassifier.png)
 ## Summary
+Based on the results that I got, I would recommend using either the BalancedRandomForrestClassifier or the EasyEnsembleClassifier. The reason being that they were almost identical in accuracy, precision, and recall, but were higher in all three than the other classifiers.
