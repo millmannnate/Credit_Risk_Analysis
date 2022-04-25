@@ -11,7 +11,7 @@ The purpose of this analysis was to evaluate different classification models for
 * SMOTEENN
  ![SMOTEENN](Images/SMOTEENN.png)
 * BalancedRandomForrestClassifier
- ![BalancedForrestClassifier](Images/BalancedForestClassifier.png)
+ ![BalancedForestClassifer](Images/BalancedForestClassifer.png)
 * EasyEnsembleClassifier
  ![EasyEnsembleClassifier](Images/EasyEnsembleClassifier.png)
 ## Summary
