@@ -3,15 +3,15 @@
 The purpose of this analysis was to evaluate different classification models for predicting credit risk.
 ## Results
 * RandomOverSampler
- ![Regression Summary](Images/regression_summary.png)
+ ![RandomOverSampler](Images/RandomOverSampler.png)
 * SMOTE
- ![Regression Summary](Images/regression_summary.png)
+ ![SMOTE](Images/SMOTE.png)
 * ClusterCentroids
- ![Regression Summary](Images/regression_summary.png)
+ ![ClusterCentroids](Images/ClusterCentroids.png)
 * SMOTEENN
- ![Regression Summary](Images/regression_summary.png)
+ ![SMOTEENN](Images/SMOTEENN.png)
 * BalancedRandomForrestClassifier
- ![Regression Summary](Images/regression_summary.png)
+ ![BalancedForrestClassifier](Images/BalancedForrestClassifier.png)
 * EasyEnsembleClassifier
- ![Regression Summary](Images/regression_summary.png)
+ ![EasyEnsembleClassifier](Images/EasyEnsembleClassifier.png)
 ## Summary
